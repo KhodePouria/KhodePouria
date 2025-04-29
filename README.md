@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhodePouria
-- 👀 React.js Developer
+- 👀 Web Developer
 - 📫 How to reach me:pooriaramezani1382@gmail.com
 
 
