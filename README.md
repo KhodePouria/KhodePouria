@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Pouria<br>👀 Web Developer<br>🛠️ Currently working with NextJs<br>🌱 Consistently learning new things<br>📫 How to reach me:pooriaramezani1382@gmail.com
+👋 Hi, I’m Pouria<br>👀 Web Developer<br>🛠️ Currently working with NextJs<br>🌱 Consistently learning new things<br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KhodePouria&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
