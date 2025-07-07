@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Pouria<br>👀 Web Developer<br>🛠️ Currently working with NextJs<br>🌱 Consistently learning new things<br>
+👋 Hi, I’m Pouria<br>👀 Web Developer<br>🛠️ Currently working with NextJs<br>🌱 Consistantly learning new things<br>
 
 
 ## 🌐 Socials:
